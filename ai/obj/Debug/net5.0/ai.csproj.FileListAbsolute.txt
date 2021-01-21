@@ -1,0 +1,16 @@
+/home/tam/Desktop/ai/bin/Debug/net5.0/ai
+/home/tam/Desktop/ai/bin/Debug/net5.0/ai.deps.json
+/home/tam/Desktop/ai/bin/Debug/net5.0/ai.runtimeconfig.json
+/home/tam/Desktop/ai/bin/Debug/net5.0/ai.runtimeconfig.dev.json
+/home/tam/Desktop/ai/bin/Debug/net5.0/ai.dll
+/home/tam/Desktop/ai/bin/Debug/net5.0/ref/ai.dll
+/home/tam/Desktop/ai/bin/Debug/net5.0/ai.pdb
+/home/tam/Desktop/ai/obj/Debug/net5.0/ai.csprojAssemblyReference.cache
+/home/tam/Desktop/ai/obj/Debug/net5.0/ai.GeneratedMSBuildEditorConfig.editorconfig
+/home/tam/Desktop/ai/obj/Debug/net5.0/ai.AssemblyInfoInputs.cache
+/home/tam/Desktop/ai/obj/Debug/net5.0/ai.AssemblyInfo.cs
+/home/tam/Desktop/ai/obj/Debug/net5.0/ai.csproj.CoreCompileInputs.cache
+/home/tam/Desktop/ai/obj/Debug/net5.0/ai.dll
+/home/tam/Desktop/ai/obj/Debug/net5.0/ref/ai.dll
+/home/tam/Desktop/ai/obj/Debug/net5.0/ai.pdb
+/home/tam/Desktop/ai/obj/Debug/net5.0/ai.genruntimeconfig.cache
